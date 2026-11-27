@@ -28,7 +28,7 @@
 
 ## 3. Giao diện chính – MainForm
 
-![Hình 1. Giao diện chính KssDataTool v2.3](KssDataTool/blob/SoDoMang/1-MainLayout.png)
+![Hình 1. Giao diện chính KssDataTool v2.3](1-MainLayout.png)
 
 Giao diện chính được chia thành bốn khu vực:
 
